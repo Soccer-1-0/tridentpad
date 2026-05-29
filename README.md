@@ -13,6 +13,8 @@
 
 ## BOM
 
+Everything you need to make this hackpad!
+
 ### Components
 - 1x Seeed XIAO RP2040
 - 12x MX-Style switches
