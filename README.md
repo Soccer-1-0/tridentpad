@@ -5,7 +5,11 @@
 
 ## Schematic 
 
+![Schematic](Schematic.png)
+
 ## PCB
+
+![PCB](PCB.png)
 
 ## Firmware
 
