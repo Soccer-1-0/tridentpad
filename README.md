@@ -1,2 +1,15 @@
-# tridentpad
-My hardware tridentpad for hack club fallout!
+#Tridentpad
+
+
+#CAD
+
+#Schematic 
+
+#PCB
+
+#Case
+
+#BOM
+
+
+
