@@ -7,6 +7,8 @@
 
 ## PCB
 
+## Firmware
+
 ## Case
 
 ## BOM
