@@ -1,15 +1,15 @@
-#Tridentpad
+# Tridentpad
 
 
-#CAD
+## CAD
 
-#Schematic 
+## Schematic 
 
-#PCB
+## PCB
 
-#Case
+## Case
 
-#BOM
+## BOM
 
 
 
