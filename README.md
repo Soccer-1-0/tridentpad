@@ -37,6 +37,8 @@ The case is connected with 4x M3x16mm Screws and 4x M3x5mx4mm heatset insert. Th
 Everything you need to make this hackpad!
 
 ### Components
+| Components |
+
 - 1x Seeed XIAO RP2040
 - 12x MX-Style switches
 - 12x 1N4148 Diodes
