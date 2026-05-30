@@ -33,7 +33,15 @@ The case is connected with 4x M3x16mm Screws and 4x M3x5mx4mm heatset insert. Th
 
 ## Assembly
 
-![assembly](assembly.mp4)
+Assembly
+
+https://github.com/user-attachments/assets/bcddb715-b996-4dae-9dc9-fb0daacc86bf
+
+Unassembly
+
+https://github.com/user-attachments/assets/65befd96-f695-466a-b2bf-0598ded5cfb7
+
+
 
 ## BOM
 
