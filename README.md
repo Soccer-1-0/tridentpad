@@ -37,15 +37,16 @@ The case is connected with 4x M3x16mm Screws and 4x M3x5mx4mm heatset insert. Th
 Everything you need to make this hackpad!
 
 ### Components
-| Components |
 
-- 1x Seeed XIAO RP2040
-- 12x MX-Style switches
-- 12x 1N4148 Diodes
-- 12x DSA Key Caps
-- 12x SK6812 MINI-E LED
-- 4x M3x16mm Screw
-- 4x M3x5mx4mm heatset insert
-- 1x Case (Two printed parts)
-- 1x PCB
+| Component | Amount | Cost |
+| :--- | :---: |
+| **Seeed XIAO RP2040** | 1x |
+| **MX-Style switches** | 12x |
+| **1N4148 Diodes** | 12x | 
+| **DSA keycaps** | 12x |
+| **SK6812 MINI-E LED** | 7x |
+| **M3x16mm screw** | 4x |
+| **M3x5mx4mm heatset insert** | 4x |
+| **Case** (two printed parts) | 1x |
+| **PCB** | 1x |
 
