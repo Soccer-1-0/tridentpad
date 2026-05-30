@@ -38,15 +38,13 @@ Everything you need to make this hackpad!
 
 ### Components
 
-| Component | Amount | Cost |
-| :--- | :---: |
-| **Seeed XIAO RP2040** | 1x |
-| **MX-Style switches** | 12x |
-| **1N4148 Diodes** | 12x | 
-| **DSA keycaps** | 12x |
-| **SK6812 MINI-E LED** | 7x |
-| **M3x16mm screw** | 4x |
-| **M3x5mx4mm heatset insert** | 4x |
-| **Case** (two printed parts) | 1x |
-| **PCB** | 1x |
+- PCB x1
+- Seeed XIAO RP2040 x1
+- MX-Style switches x12
+- 1N4148 Diodes x12
+- DSA keycaps x12
+- SK6812 MINI-E LED x12
+- M3x16mm screw x4
+- M3x5mx4mm heatset insert x4
+- Case, two parts
 
