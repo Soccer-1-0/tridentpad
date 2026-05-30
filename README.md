@@ -35,6 +35,7 @@ The case is connected with 4x M3x16mm Screws and 4x M3x5mx4mm heatset insert. Th
 ## BOM
 
 Everything you need to make this hackpad!
+The BOM are in the files.
 
 ### Components
 
