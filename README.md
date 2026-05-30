@@ -4,6 +4,8 @@ The Tridentpad has 12 keys, with each key having a backlight SK6812 MINI-E LEDs,
 
 ## CAD
 
+![CAD](CAD.png)
+
 ## Schematic 
 
 ![Schematic](Schematic.png)
