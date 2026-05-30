@@ -4,6 +4,8 @@ The Tridentpad has 12 keys, with each key having a backlight SK6812 MINI-E LEDs,
 
 ## CAD
 
+I loved designing this macropad, and this is my first hardware project from HackClub! This project is mainly for personal use (I haven't really decided yet), and also just as a fun learning project to get started in making hardware projects.
+
 ![CAD](CAD.png)
 
 ## Schematic 
@@ -17,6 +19,8 @@ The Tridentpad has 12 keys, with each key having a backlight SK6812 MINI-E LEDs,
 ## Firmware
 
 ## Case
+
+The case is connected with 4x M3x16mm Screws and 4x M3x5mx4mm heatset insert. The case is printed in two parts and held together with the screws and inserts.
 
 ![Case1](CasingTop.png)
 ![Case2](CasingBottom.png)
