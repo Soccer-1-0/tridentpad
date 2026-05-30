@@ -2,6 +2,10 @@
 
 The Tridentpad has 12 keys, with each key having a backlight SK6812 MINI-E LEDs, and uses QMK software.
 
+## Zine Poster
+
+![ZinePoster](ZinePoster!!.png)
+
 ## CAD
 
 I loved designing this macropad, and this is my first hardware project from HackClub! This project is mainly for personal use (I haven't really decided yet), and also just as a fun learning project to get started in making hardware projects.
