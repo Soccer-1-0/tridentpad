@@ -2,6 +2,11 @@
 
 The Tridentpad has 12 keys, with each key having a backlight SK6812 MINI-E LEDs, and uses QMK software.
 
+![img1](IMG_3245.HEIC)
+
+
+Demo link: https://youtu.be/PokkB0xyun4 
+
 ## Zine Poster
 
 ![ZinePoster](ZinePoster!!.png)
